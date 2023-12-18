@@ -19,7 +19,7 @@
 </p>
 
 
-## I'm a student, Developer, and Learner!!
+## I'm a Developer, and Learner!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
